@@ -1,0 +1,10 @@
+{
+    "name": "laravel/pac-infinity",
+    "type": "project",
+    "description": "The Laravel Framework.",
+    "keywords": [
+        "framework",
+        "laravel"
+    ],
+    "license": "MIT"
+}
